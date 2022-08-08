@@ -1,0 +1,8 @@
+﻿  Simulation.cpp
+C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\ukladAutomatycznejRegulacji\uarSim\uarSim\Simulation.h(19,12): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\ukladAutomatycznejRegulacji\uarSim\uarSim\Simulation.h(19,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\ukladAutomatycznejRegulacji\uarSim\uarSim\RegulatorPID.h(11,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\ukladAutomatycznejRegulacji\uarSim\uarSim\RegulatorPID.h(12,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  uarSim.vcxproj -> C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\ukladAutomatycznejRegulacji\uarSim\x64\Debug\uarSim.exe
